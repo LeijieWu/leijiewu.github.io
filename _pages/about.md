@@ -13,7 +13,8 @@ I'm Leijie (Eric) Wu, a passionate and dedicated Ph.D. student from the [Departm
 I'm very fortunate to be supervised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), who is currently the a a full professor in the [Department of Computer Science and Engineering (CSE)](https://cse.hkust.edu.hk/) at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
 
 Before joining PolyU in 2020, I received my Bachelor of Science in Automation at the Beijing Institute of Technology (BIT).
-Since April 2023, I also joined the [Scalable Computing Systems Laboratory (SACS Lab)](https://www.epfl.ch/labs/sacs/) as a Visiting Ph.D. student, where I'm very fortunate to be supervised by [Prof. Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec?lang=en) from the [School of Computer and Communication Sciences (IC)](https://www.epfl.ch/schools/ic/) at the [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/).  
+
+Since April 2023, I also join the [Scalable Computing Systems Laboratory (SACS Lab)](https://www.epfl.ch/labs/sacs/) as a Visiting Ph.D. student, where I'm very fortunate to be supervised by [Prof. Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec?lang=en) from the [School of Computer and Communication Sciences (IC)](https://www.epfl.ch/schools/ic/) at the [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland.  
 
 My current research interest includes Federated Learning, Incentive Mechanism, Deep Reinforcement Learning and Foundation Model.
 
