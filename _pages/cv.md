@@ -14,7 +14,7 @@ Education Background
 * __Ph.D. in Computer Science, 2020-2024.__
   * The Department of Computing, The Hong Kong Polytechnic University (PolyU), Hong Kong.
   * Supervisor: Prof. [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo)
-* __Visiting Ph.D. Student in Computer Science, 2023-2024.__
+* __Visiting Ph.D. in Computer Science, 2023-2024.__
   * School of Computer and Communication Sciences, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland.
   * Supervisor: Prof. [Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec?lang=en)
 * __B.S. in Automation, 2015-2019.__
