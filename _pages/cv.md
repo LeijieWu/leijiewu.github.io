@@ -24,17 +24,25 @@ Work experience
 ======
 * __Research Intern, Dec./2023-Jul./2024.__
   * Theory Lab (Huawei 2012 Labs), Huawei Hong Kong Research Center.
-  * Duties includes: Artificial Intelligence Research, Multi-Modal Large Foundation Model Research
+  * Duties includes:
+    * AI-empowered Time Series Forecasting.
+    * Multi-modal Large Language Model based Information Retrieval.
+    * Multi-modal Alignment for Large Language Model Inference.
 
 * __Research Assistant, Sept./2019-Sept./2020.__
   * Department of Computing, The Hong Kong Polytechnic University (PolyU).
-  * Duties includes: Deep Reinforcement Learning-based incentive mechanism design for mobile edge network optimization (e.g., Federated Learning). Survey the important challenges, open issues and future research directions in mobile edge network.
   * Supervisor: Prof. Song Guo
+  * Duties includes:
+    * Deep Reinforcement Learning-based incentive mechanism design for mobile edge network optimization (e.g., Federated Learning).
+    * Survey the important challenges, open issues and future research directions in mobile edge network.
+  
 
 * __Research Assistant, Nov./2018-Jul./2019.__
   * State Key Laboratory of Intelligent Control and Decision of Complex Systems, Beijing Institute of Technology (BIT).
-  * Duties included: Cooperative UAV-UGV system modeling and control law design, Tracking algorithm design under dynamic visibility constraint. 
   * Supervisor: Prof. Kun Liu
+  * Duties included:
+    * Cooperative UAV-UGV system modeling and control law design.
+    * Tracking algorithm design under dynamic visibility constraint. 
 
 * __Embedded System Software Engineer, Jun./2018-Oct./2018.__
   * R&D Department, Zhejiang Dahua Technology Co. Ltd.
