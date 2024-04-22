@@ -70,7 +70,8 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow" # URL
+  zhihu            : # URL
+  Wechat           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 
 
 # Site Settings
