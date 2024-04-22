@@ -38,7 +38,10 @@ Work experience
 
 * __Embedded System Software Engineer, Jun./2018-Oct./2018.__
   * R&D Department, Zhejiang Dahua Technology Co. Ltd.
-  * Duties included: Project code debugging and automatic testing, Use case test of the dome camera's artificial intelligence modules, including Face Recognition, Tripwire Intrusion, People Counting, etc. testing internal code coverage rate research project.
+  * Duties included:
+    * Project code debugging and automatic testing
+    * Use case test of the dome camera's artificial intelligence modules, including Face Recognition, Tripwire Intrusion, People Counting, etc.
+    * Testing internal code coverage rate research project.
   
 Skills
 ======
