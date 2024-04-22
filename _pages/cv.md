@@ -11,31 +11,30 @@ redirect_from:
 
 Education Background
 ======
-* Ph.D. in Computer Science, 2020-2024.
+* __Ph.D. in Computer Science, 2020-2024.__
   * The Department of Computing, The Hong Kong Polytechnic University (PolyU), Hong Kong.
   * Supervisor: Prof. Song Guo (Fellow of the Canadian Academy of Engineering, IEEE Fellow)
-* Visiting Ph.D. Student in Computer Science, 2023-2024.
+* __Visiting Ph.D. Student in Computer Science, 2023-2024.__
   * School of Computer and Communication Sciences, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland.
   * Supervisor: Prof. Anne-Marie Kermarrec (Associate Dean for Education, Deanship IC)
-* B.S. in Automation, 2015-1019.
+* __B.S. in Automation, 2015-2019.__
   * Xuteli School, Beijing Institute of Technology (BIT), China
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Research Assistant, 09/2019-09/2020.
+  * Department of Computing, The Hong Kong Polytechnic University (PolyU).
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Prof. Song Guo
 
-* Fall 2015: Research Assistant
-  * Github University
+* Research Assistant, 11/2018-07/2019.
+  * State Key Laboratory of Intelligent Control and Decision of Complex Systems, Beijing Institute of Technology (BIT).
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Prof. Kun Liu 
 
-* Summer 2015: Research Assistant
-  * Github University
+* Embedded System Software Engineer, 06/2018-10/2018
+  * R&D Department, Zhejiang Dahua Technology Co. Ltd
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
