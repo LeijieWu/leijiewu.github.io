@@ -22,18 +22,18 @@ Education Background
 
 Work experience
 ======
-* Research Assistant, 09/2019-09/2020.
+* __Research Assistant, 09/2019-09/2020.__
   * Department of Computing, The Hong Kong Polytechnic University (PolyU).
   * Duties includes: Deep Reinforcement Learning-based incentive mechanism design for mobile edge network optimization (e.g., Federated Learning). Survey the important challenges, open issues and future research directions in mobile edge network.
   * Supervisor: Prof. Song Guo
 
-* Research Assistant, 11/2018-07/2019.
+* __Research Assistant, 11/2018-07/2019.__
   * State Key Laboratory of Intelligent Control and Decision of Complex Systems, Beijing Institute of Technology (BIT).
   * Duties included: Cooperative UAV-UGV system modeling and control law design, Tracking algorithm design under dynamic visibility constraint. 
-  * Supervisor: Prof. Kun Liu 
+  * Supervisor: Prof. Kun Liu
 
-* Embedded System Software Engineer, 06/2018-10/2018
-  * R&D Department, Zhejiang Dahua Technology Co. Ltd
+* __Embedded System Software Engineer, 06/2018-10/2018.__
+  * R&D Department, Zhejiang Dahua Technology Co. Ltd.
   * Duties included: Project code debugging and automatic testing, Use case test of the dome camera's artificial intelligence modules, including Face Recognition, Tripwire Intrusion, People Counting, etc. testing internal code coverage rate research project.
   
 Skills
