@@ -9,11 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education Background
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, 2020-2024.
+  * The Department of Computing, The Hong Kong Polytechnic University (PolyU), Hong Kong.
+  * Supervisor: Prof. Song Guo (Fellow of the Canadian Academy of Engineering, IEEE Fellow)
+* Visiting Ph.D. Student in Computer Science, 2023-2024.
+  * School of Computer and Communication Sciences, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland.
+  * Supervisor: Prof. Anne-Marie Kermarrec (Associate Dean for Education, Deanship IC)
+* B.S. in Automation, 2015-1019.
+  * Xuteli School, Beijing Institute of Technology (BIT), China
 
 Work experience
 ======
