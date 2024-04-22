@@ -7,13 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my corner of the internet!
-I'm Leijie (Eric) Wu, a passionate and dedicated Ph.D. student from [The Department of Computing](https://www.polyu.edu.hk/comp), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
+Welcome to my corner of the internet!  
+
+I'm Leijie (Eric) Wu, a passionate and dedicated Ph.D. student from the [Department of Computing (COMP)](https://www.polyu.edu.hk/comp) at the [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/).
+I'm very fortunate to be supervised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), who is currently the a a full professor in the [Department of Computer Science and Engineering (CSE)](https://cse.hkust.edu.hk/) at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
+
+Before joining PolyU in 2020, I received my Bachelor of Science in Automation at the Beijing Institute of Technology (BIT).
+Since April 2023, I also joined the [Scalable Computing Systems Laboratory (SACS Lab)](https://www.epfl.ch/labs/sacs/) as a Visiting Ph.D. student, where I'm very fortunate to be supervised by [Prof. Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec?lang=en) from the [School of Computer and Communication Sciences (IC)](https://www.epfl.ch/schools/ic/) at the [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/).  
+
 My current research interest includes Federated Learning, Incentive Mechanism, Deep Reinforcement Learning and Foundation Model.
 
 
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).-->
 
 A data-driven personal website
 ======
