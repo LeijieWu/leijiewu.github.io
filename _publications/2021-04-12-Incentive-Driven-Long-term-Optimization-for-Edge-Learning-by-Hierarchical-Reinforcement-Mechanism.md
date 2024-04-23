@@ -2,7 +2,7 @@
 title: "Incentive-Driven Long-term Optimization for Edge Learning by Hierarchical Reinforcement Mechanism"
 collection: publications
 permalink: /publication/2021-04-12-Incentive-Driven-Long-term-Optimization-for-Edge-Learning-by-Hierarchical-Reinforcement-Mechanism
-excerpt: 'This paper is about the Incentive-Driven Long-term Optimization for Edge Learning.'
+excerpt: 'This paper is about the incentive-driven long-term optimization for edge learning.'
 date: 2021-04-12
 venue: 'IEEE 41st International Conference on Distributed Computing Systems (ICDCS) (CCF-B)'
 paperurl: 'https://ieeexplore.ieee.org/document/9546525'
