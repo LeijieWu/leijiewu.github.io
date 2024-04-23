@@ -10,7 +10,7 @@ redirect_from:
 Welcome to my personal space of interest!  
 
 I'm Leijie (Eric) Wu, a passionate and dedicated Ph.D. student from the [Department of Computing (COMP)](https://www.polyu.edu.hk/comp) at the [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/).
-I'm very fortunate to be supervised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), who is currently the a a full professor in the [Department of Computer Science and Engineering (CSE)](https://cse.hkust.edu.hk/) at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
+I'm very fortunate to be supervised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), who is currently a full professor in the [Department of Computer Science and Engineering (CSE)](https://cse.hkust.edu.hk/) at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
 
 Before joining PolyU in 2020, I received my Bachelor of Science in Automation at the Beijing Institute of Technology (BIT).
 
