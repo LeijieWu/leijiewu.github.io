@@ -6,7 +6,7 @@ excerpt: 'This paper is about the incentive mechanism design for federated learn
 date: 2023-09-16
 venue: 'IEEE Transactions on Mobile Computing (TMC)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: '__Leijie Wu__, Song Guo, Yi Liu, Zicong Hong, Yufeng Zhan, and Wenchao Xu. _Long-Term Adaptive VCG Auction Mechanism for Sustainable Federated Learning With Periodical Client Shifting_[J]. IEEE Transactions on Mobile Computing, 2023.'
+citation: 'Leijie Wu, Song Guo, Yi Liu, Zicong Hong, Yufeng Zhan, and Wenchao Xu. Long-Term Adaptive VCG Auction Mechanism for Sustainable Federated Learning With Periodical Client Shifting[J]. IEEE Transactions on Mobile Computing, 2023.'
 ---
 
 
