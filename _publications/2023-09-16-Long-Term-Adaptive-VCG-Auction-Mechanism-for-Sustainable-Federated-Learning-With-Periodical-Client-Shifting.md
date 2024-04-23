@@ -1,6 +1,6 @@
 ---
 title: "Long-term Adaptive VCG Auction Mechanism for Sustainable Federated Learning with Periodical Client Shifting"
-collection: Journals
+collection: publications
 permalink: /publication/2023-09-16-Long-Term-Adaptive-VCG-Auction-Mechanism-for-Sustainable-Federated-Learning-With-Periodical-Client-Shifting
 excerpt: 'This paper is about the incentive mechanism design for federated learning.'
 date: 2023-09-16
