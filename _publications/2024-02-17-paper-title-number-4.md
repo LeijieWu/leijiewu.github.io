@@ -4,7 +4,7 @@ collection: Journals
 permalink: /publication/2024-04-23-Rethinking-Personalized-User-Collaboration-when-Facing-An-Agnostic-Federated-Learning-System
 excerpt: 'This paper is about personalized federated learning.'
 date: 2024-04-23
-venue: 'IEEE Transactions on Mobile Computing'
+venue: 'IEEE Transactions on Mobile Computing (TMC)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
