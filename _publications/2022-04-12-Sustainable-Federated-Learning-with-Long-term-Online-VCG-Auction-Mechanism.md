@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2022-04-12-Sustainable-Federated-Learning-with-Long-term-Online-VCG-Auction-Mechanism.md
 excerpt: 'This paper is about the long-term incentive mechanism design for federated learning.'
 date: 2022-04-12
-venue: 'IEEE 42nd International Conference on Distributed Computing Systems (ICDCS)'
+venue: 'IEEE 42nd International Conference on Distributed Computing Systems (ICDCS) (CCF-B)'
 paperurl: 'https://ieeexplore.ieee.org/document/9912254'
-citation: 'Leijie Wu, Song Guo, Yi Liu, Zicong Hong, Yufeng Zhan, and Wenchao Xu. &quot;Sustainable Federated Learning with Long-term Online VCG Auction Mechanism.&quot; <i>IEEE 42nd International Conference on Distributed Computing Systems (ICDCS)</i>. 2022: 895-905. (CCF-B).'
+citation: 'Leijie Wu, Song Guo, Yi Liu, Zicong Hong, Yufeng Zhan, and Wenchao Xu. &quot;Sustainable Federated Learning with Long-term Online VCG Auction Mechanism.&quot; <i>IEEE 42nd International Conference on Distributed Computing Systems (ICDCS)</i>. 2022: 895-905.'
 ---
 
 
