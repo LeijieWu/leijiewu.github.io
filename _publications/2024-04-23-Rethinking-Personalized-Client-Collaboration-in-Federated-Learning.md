@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-04-23-Rethinking-Personalized-Client-Collaboration-in-Federated-Learning
 excerpt: 'This paper is about personalized federated learning.'
 date: 2024-04-23
-venue: 'IEEE Transactions on Mobile Computing (TMC)'
+venue: 'IEEE Transactions on Mobile Computing (TMC) (CCF-A)'
 paperurl: 'http://leijiewu.github.io/files/TMC_SV_for_PFL.pdf' 
 citation: 'Leijie Wu, Song Guo, Yaohong Ding, Yufeng Zhan, Junxiao Wang, Wenchao Xu, Yufeng Zhan, and Anne-Marie Kermarrec. &quot;Rethinking Personalized Client Collaboration in Federated Learning.&quot; <i>IEEE Transactions on Mobile Computing (TMC)</i>. (2024).'
 ---
