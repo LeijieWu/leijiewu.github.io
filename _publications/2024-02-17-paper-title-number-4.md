@@ -1,7 +1,7 @@
 ---
-title: "Rethinking Personalized User Collaboration when Facing An Agnostic Federated Learning System"
+title: "Rethinking Personalized Client Collaboration in Federated Learning"
 collection: Journals
-permalink: /publication/2024-04-23-Rethinking-Personalized-User-Collaboration-when-Facing-An-Agnostic-Federated-Learning-System
+permalink: /publication/2024-04-23-Rethinking-Personalized-Client-Collaboration-in-Federated-Learning
 excerpt: 'This paper is about personalized federated learning.'
 date: 2024-04-23
 venue: 'IEEE Transactions on Mobile Computing (TMC)'
