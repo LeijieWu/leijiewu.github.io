@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 2. The number 3 is left for future work
 date: 2022-04-12
 venue: 'IEEE 42nd International Conference on Distributed Computing Systems (ICDCS)'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Leijie Wu, Song Guo, Yi Liu, Zicong Hong, Yufeng Zhan, and Wenchao Xu. &quot;Sustainable Federated Learning with Long-term Online VCG Auction Mechanism.&quot; <i>Journal 1</i>. 2022: 895-905. (CCF-B).'
+citation: 'Leijie Wu, Song Guo, Yi Liu, Zicong Hong, Yufeng Zhan, and Wenchao Xu. &quot;Sustainable Federated Learning with Long-term Online VCG Auction Mechanism.&quot; <i>IEEE 42nd International Conference on Distributed Computing Systems (ICDCS)</i>. 2022: 895-905. (CCF-B).'
 ---
 
 
