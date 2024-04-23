@@ -1,6 +1,6 @@
 ---
 title: "Rethinking Personalized Client Collaboration in Federated Learning"
-collection: Journals
+collection: publications
 permalink: /publication/2024-04-23-Rethinking-Personalized-Client-Collaboration-in-Federated-Learning
 excerpt: 'This paper is about personalized federated learning.'
 date: 2024-04-23
