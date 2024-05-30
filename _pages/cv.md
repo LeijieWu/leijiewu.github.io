@@ -20,7 +20,7 @@ Education Background
 * __B.S. in Automation, 2015-2019.__
   * Xuteli School, Beijing Institute of Technology (BIT), China
 
-Work experience
+Work Experience
 ======
 * __Research Intern, Dec./2023-Jul./2024.__
   * Theory Lab (Huawei 2012 Labs), Huawei Hong Kong Research Center.
@@ -53,12 +53,8 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages: C, C++, Matlab, Python.
+* Development environments or tools: Ubuntu, Tensorflow, PyTorch, Spark, Ray, Docker, Selenium.
 
 Publications
 ======
@@ -80,4 +76,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewers for IEEE TMC, IEEE TCC, IEEE IoTJ, IEEE TNSESI, IEEE TSUSC, and IEEE INFOCOM.
+  
