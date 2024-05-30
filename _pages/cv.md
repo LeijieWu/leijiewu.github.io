@@ -50,11 +50,7 @@ Work Experience
     * Project code debugging and automatic testing
     * Use case test of the dome camera's artificial intelligence modules, including Face Recognition, Tripwire Intrusion, People Counting, etc.
     * Testing internal code coverage rate research project.
-  
-Skills
-======
-* Programming languages: C, C++, Matlab, Python.
-* Development environments or tools: Ubuntu, Tensorflow, PyTorch, Spark, Ray, Docker, Selenium.
+
 
 Publications
 ======
@@ -73,7 +69,12 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Skills
+======
+* Programming languages: C, C++, Matlab, Python.
+* Development environments or tools: Ubuntu, Tensorflow, PyTorch, Spark, Ray, Docker, Selenium.
+
 Service and leadership
 ======
 * Reviewers for IEEE TMC, IEEE TCC, IEEE IoTJ, IEEE TNSESI, IEEE TSUSC, and IEEE INFOCOM.
