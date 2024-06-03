@@ -66,14 +66,16 @@ Talks
   
 Teaching
 ======
-aaaa
+* Teaching Assistant, COMP4431: Artificial Intelligence, 2020 Fall.
+* Teaching Assistant, COMP4434: Big Data Analytics, 2021 Spring.
+* Teaching Assistant, COMP5511: Artificial Intelligence Concept, 2021 Fall & 2022 Spring.
 
 <!--
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
-aaaa
+
 
 Skills
 ======
