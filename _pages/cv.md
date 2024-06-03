@@ -66,11 +66,12 @@ Talks
   
 Teaching
 ======
+aaaa
 
-  <ul>{% for post in site.teaching reversed %}
+;  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+;  {% endfor %}</ul>
+aaaa
 
 Skills
 ======
