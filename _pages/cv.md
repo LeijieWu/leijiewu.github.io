@@ -19,6 +19,7 @@ Education Background
   * Supervisor: [Prof. Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec?lang=en)
 * __B.S. in Automation, 2015 - 2019.__
   * Xuteli School, Beijing Institute of Technology (BIT), China
+  * Supervisor: [Prof. Yuanqing Xia](https://ac.bit.edu.cn/szdw/jsml/znxxclykzyjs1/05f36ed7c8324862b25749c5b5001eae.htm)
 
 Work Experience
 ======
