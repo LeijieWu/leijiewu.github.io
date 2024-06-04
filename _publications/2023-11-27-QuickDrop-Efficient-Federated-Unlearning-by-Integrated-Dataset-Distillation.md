@@ -6,7 +6,7 @@ excerpt: 'This paper is about efficient federated unlearning.'
 date: 2023-11-27
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/abs/2311.15603' 
-citation: 'Leijie Wu, Yaohong Ding, Akash Dhasade, Martijn De Vos, Anne-marie Kermarrec, Song Guo. &quot;QuickDrop: Efficient Federated Unlearning by Integrated Dataset Distillation.&quot; <i>ArXiv</i>. 2023.'
+citation: '<b>Leijie Wu</b>, Yaohong Ding, Akash Dhasade, Martijn De Vos, Anne-marie Kermarrec, Song Guo. &quot;QuickDrop: Efficient Federated Unlearning by Integrated Dataset Distillation.&quot; <i>ArXiv</i>. 2023.'
 ---
 
 
