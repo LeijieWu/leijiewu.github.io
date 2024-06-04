@@ -22,14 +22,14 @@ Education Background
 
 Work Experience
 ======
-* __Research Intern, Dec./2023-Jul./2024.__
+* __Research Intern, Dec. 2023 - Jul. 2024.__
   * Theory Lab (Huawei 2012 Labs), Huawei Hong Kong Research Center.
   * Duties includes:
     * AI-empowered Time Series Forecasting.
     * Multi-modal Large Language Model based Information Retrieval.
     * Multi-modal Alignment for Large Language Model Inference.
 
-* __Research Assistant, Sept./2019-Sept./2020.__
+* __Research Assistant, Sept. 2019 - Sept. 2020.__
   * Department of Computing, The Hong Kong Polytechnic University (PolyU).
   * Supervisor: Prof. Song Guo
   * Duties includes:
@@ -37,14 +37,14 @@ Work Experience
     * Survey the important challenges, open issues and future research directions in mobile edge network.
   
 
-* __Research Assistant, Nov./2018-Jul./2019.__
+* __Research Assistant, Nov. 2018 - Jul. 2019.__
   * State Key Laboratory of Intelligent Control and Decision of Complex Systems, Beijing Institute of Technology (BIT).
   * Supervisor: Prof. Kun Liu
   * Duties included:
     * Cooperative UAV-UGV system modeling and control law design.
     * Tracking algorithm design under dynamic visibility constraint. 
 
-* __Embedded System Software Engineer, Jun./2018-Oct./2018.__
+* __Embedded System Software Engineer, Jun. 2018 - Oct. 2018.__
   * R&D Department, Zhejiang Dahua Technology Co. Ltd.
   * Duties included:
     * Project code debugging and automatic testing
