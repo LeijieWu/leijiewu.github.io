@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Federated Learning with Long-term Online VCG Auction Mechanism"
 collection: publications
-permalink: /publication/2022-04-12-Sustainable-Federated-Learning-with-Long-term-Online-VCG-Auction-Mechanism.md
+permalink: /publication/2022-04-12-Sustainable-Federated-Learning-with-Long-term-Online-VCG-Auction-Mechanism
 excerpt: 'This paper is about the long-term incentive mechanism design for federated learning.'
 date: 2022-04-12
 venue: 'IEEE 42nd International Conference on Distributed Computing Systems (ICDCS) (CCF-B)'
