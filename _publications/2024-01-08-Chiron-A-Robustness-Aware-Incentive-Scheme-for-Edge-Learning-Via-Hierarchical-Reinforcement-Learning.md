@@ -6,7 +6,7 @@ excerpt: 'This paper is about incentive mechanism design in federated learning.'
 date: 2024-01-08
 venue: 'IEEE Transactions on Mobile Computing (TMC) (CCF-A)'
 paperurl: 'https://ieeexplore.ieee.org/document/10382540' 
-citation: 'Yi Liu, Song Guo, Yufeng Zhan, Leijie Wu, Zicong Hong, and Qihua Zhou. &quot;Chiron: A Robustness-Aware Incentive Scheme for Edge Learning Via Hierarchical Reinforcement Learning.&quot; <i>IEEE Transactions on Mobile Computing (TMC)</i>. 2024.'
+citation: 'Yi Liu, Song Guo, Yufeng Zhan, <b>Leijie Wu</b>, Zicong Hong, and Qihua Zhou. &quot;Chiron: A Robustness-Aware Incentive Scheme for Edge Learning Via Hierarchical Reinforcement Learning.&quot; <i>IEEE Transactions on Mobile Computing (TMC)</i>. 2024.'
 ---
 
 
