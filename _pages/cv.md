@@ -23,7 +23,10 @@ Education Background
 
 Work Experience
 ======
-* __Research Intern, Dec. 2023 - Jul. 2024.__
+* __Researcher, Dec. 2024 - Now__
+  * System Group, Theory Lab (Huawei 2012 Labs), Huawei Hong Kong Research Center.
+
+* __Research Intern, Dec. 2023 - Aug. 2024.__
   * Theory Lab (Huawei 2012 Labs), Huawei Hong Kong Research Center.
   * Duties includes:
     * AI-empowered Time Series Forecasting.
@@ -36,7 +39,6 @@ Work Experience
   * Duties includes:
     * Deep Reinforcement Learning-based incentive mechanism design for mobile edge network optimization (e.g., Federated Learning).
     * Survey the important challenges, open issues and future research directions in mobile edge network.
-  
 
 * __Research Assistant, Nov. 2018 - Jul. 2019.__
   * State Key Laboratory of Intelligent Control and Decision of Complex Systems, Beijing Institute of Technology (BIT).
