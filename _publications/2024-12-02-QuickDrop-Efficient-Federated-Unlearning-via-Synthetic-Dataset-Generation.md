@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-12-02-QuickDrop-Efficient-Federated-Unlearning-via-Synthetic-Dataset-Generation
 excerpt: 'This paper is about efficient federated unlearning.'
 date: 2024-12-02
-venue: 'Middleware'24: Proceedings of the 25th International Middleware Conference'
+venue: 'Middleware-24: Proceedings of the 25th International Middleware Conference'
 paperurl: 'https://dl.acm.org/doi/10.1145/3652892.3700764' 
 citation: '<b>Leijie Wu</b>, Yaohong Ding, Akash Dhasade, Martijn De Vos, Anne-marie Kermarrec, Song Guo. &quot;QuickDrop: Efficient Federated Unlearning via Synthetic Data Generation.&quot; <i>Middleware'24</i>. 2024.'
 ---
