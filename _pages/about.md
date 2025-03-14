@@ -15,7 +15,7 @@ I obtain my Ph.D. Degree from the [Department of Computing (COMP)](https://www.p
 
 Before joining PolyU in 2020, I received my Bachelor of Science in Automation at the Beijing Institute of Technology (BIT).
 
-During April 2023 and Nov. 2023, I also join the [Scalable Computing Systems Laboratory (SACS Lab)](https://www.epfl.ch/labs/sacs/) as a Visiting Ph.D. student, where I'm very fortunate to be supervised by [Prof. Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec?lang=en) from the [School of Computer and Communication Sciences (IC)](https://www.epfl.ch/schools/ic/) at the [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland.  
+Since April 2023, I also join the [Scalable Computing Systems Laboratory (SACS Lab)](https://www.epfl.ch/labs/sacs/) as a Visiting Ph.D. student, where I'm very fortunate to be supervised by [Prof. Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec?lang=en) from the [School of Computer and Communication Sciences (IC)](https://www.epfl.ch/schools/ic/) at the [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland.  
 
 My current research topic can be summarized as: **Learning for Learning**, which is to utilize various machine/deep learning techniques to empower further applications in federated learning and Edge computing scenarios.  My research interest includes Federated learning, Edge computing, Reinforcement learning, Incentive mechanism design, and Cooperative game theory.
 
