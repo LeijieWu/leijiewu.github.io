@@ -14,20 +14,28 @@ Education Background
 * __Ph.D. in Computer Science, 2020 - 2024.__
   * The Department of Computing, The Hong Kong Polytechnic University (PolyU), Hong Kong.
   * Supervisor: [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo)
+  * Research Interest: Federated Learning, Deep Reinforcement Learning, Federated Unlearning, Game Theory.
 * __Visiting Ph.D. in Computer Science, 2023 - 2024.__
   * School of Computer and Communication Sciences, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland.
   * Supervisor: [Prof. Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec?lang=en)
+  * Research Interest: Federated Unlearning.
 * __B.S. in Automation, 2015 - 2019.__
   * Xuteli School, Beijing Institute of Technology (BIT), China
   * Supervisor: [Prof. Kun Liu](https://ac.bit.edu.cn/szdw/dsmd/sssds/znxxclykz/60bbd7b470ee432fa2aab4c5b47595d8.htm)
+  * Research Interest: Game Theory, Control Theory.
 
 Work Experience
 ======
 * __Researcher, Dec. 2024 - Now__
   * System Group, Theory Lab (Huawei 2012 Labs), Huawei Hong Kong Research Center.
+  * Duties includes:
+    * Graph-RAG for LLM
+    * Multi-modal Alignment
+    * LLM Speculative Decoding
+    * Model Quantization
 
 * __Research Intern, Dec. 2023 - Aug. 2024.__
-  * Theory Lab (Huawei 2012 Labs), Huawei Hong Kong Research Center.
+  * System Group, Theory Lab (Huawei 2012 Labs), Huawei Hong Kong Research Center.
   * Duties includes:
     * AI-empowered Time Series Forecasting.
     * Multi-modal Large Language Model based Information Retrieval.
