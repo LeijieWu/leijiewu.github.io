@@ -9,12 +9,13 @@ redirect_from:
 
 Welcome to my personal space of interest!  
 
-I'm Leijie (Eric) Wu, a passionate and dedicated Ph.D. student from the [Department of Computing (COMP)](https://www.polyu.edu.hk/comp) at the [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/).
-I'm very fortunate to be supervised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), who is currently a full professor in the [Department of Computer Science and Engineering (CSE)](https://cse.hkust.edu.hk/) at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
+I'm Leijie (Eric) Wu, currently a research scientist in the Theory Lab, Huawei Hong Kong Research Center (HKRC), joined at Dec. 2024.
+
+I obtain my Ph.D. Degree from the [Department of Computing (COMP)](https://www.polyu.edu.hk/comp) at the [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). My supervisor is [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), who is currently a Chair Professor in the [Department of Computer Science and Engineering (CSE)](https://cse.hkust.edu.hk/) at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
 
 Before joining PolyU in 2020, I received my Bachelor of Science in Automation at the Beijing Institute of Technology (BIT).
 
-Since April 2023, I also join the [Scalable Computing Systems Laboratory (SACS Lab)](https://www.epfl.ch/labs/sacs/) as a Visiting Ph.D. student, where I'm very fortunate to be supervised by [Prof. Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec?lang=en) from the [School of Computer and Communication Sciences (IC)](https://www.epfl.ch/schools/ic/) at the [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland.  
+During April 2023 and Nov. 2023, I also join the [Scalable Computing Systems Laboratory (SACS Lab)](https://www.epfl.ch/labs/sacs/) as a Visiting Ph.D. student, where I'm very fortunate to be supervised by [Prof. Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec?lang=en) from the [School of Computer and Communication Sciences (IC)](https://www.epfl.ch/schools/ic/) at the [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland.  
 
 My current research topic can be summarized as: **Learning for Learning**, which is to utilize various machine/deep learning techniques to empower further applications in federated learning and Edge computing scenarios.  My research interest includes Federated learning, Edge computing, Reinforcement learning, Incentive mechanism design, and Cooperative game theory.
 
