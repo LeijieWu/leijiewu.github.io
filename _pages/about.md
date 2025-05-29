@@ -20,7 +20,9 @@ Since April 2023, I also join the [Scalable Computing Systems Laboratory (SACS L
 My current research topic can be summarized as: **Learning for Learning**, which is to utilize various machine/deep learning techniques to empower further applications in federated learning and Edge computing scenarios.  My research interest includes Federated learning, Edge computing, Reinforcement learning, Incentive mechanism design, and Cooperative game theory.
 
 
+---
 title: "News"
+---
 
 TBC
 
