@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my personal space of interest!  
 
-I'm Leijie (Eric) Wu, currently a research scientist in the Theory Lab, Huawei Hong Kong Research Center (HKRC), joined at Dec. 2024.
+I'm Leijie (Eric) Wu, currently a research scientist in the Theory Lab (Huawei 2012 Labs), Huawei Hong Kong Research Center (HKRC), joined at Dec. 2024.
 
 I obtain my Ph.D. Degree from the [Department of Computing (COMP)](https://www.polyu.edu.hk/comp) at the [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). My supervisor is [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), who is currently a Chair Professor in the [Department of Computer Science and Engineering (CSE)](https://cse.hkust.edu.hk/) at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
 
@@ -19,6 +19,10 @@ Since April 2023, I also join the [Scalable Computing Systems Laboratory (SACS L
 
 My current research topic can be summarized as: **Learning for Learning**, which is to utilize various machine/deep learning techniques to empower further applications in federated learning and Edge computing scenarios.  My research interest includes Federated learning, Edge computing, Reinforcement learning, Incentive mechanism design, and Cooperative game theory.
 
+
+title: "News"
+
+TBC
 
 
 <!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
