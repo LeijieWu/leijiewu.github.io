@@ -3,7 +3,9 @@
    ========================================================================== */
 
 .archive {
+  min-width: 0;
   margin-bottom: 2em;
+  overflow-wrap: anywhere;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -15,6 +17,7 @@
   }
 
   a {
+    overflow-wrap: anywhere;
     text-decoration: underline;
 
     &:hover {

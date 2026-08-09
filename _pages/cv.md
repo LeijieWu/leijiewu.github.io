@@ -55,7 +55,7 @@ Work Experience
     * Cooperative UAV-UGV system modeling and control law design.
     * Tracking algorithm design under dynamic visibility constraint. 
 
-* __Embedded System Software Engineer, Jun. 2018 - Oct. 2018.__
+* __Embedded System Software Engineer, Apr. 2018 - Oct. 2018.__
   * R&D Department, Zhejiang Dahua Technology Co. Ltd.
   * Duties included:
     * Project code debugging and automatic testing
@@ -95,10 +95,11 @@ Teaching
 
 Skills
 ======
-* Programming languages: C, C++, Matlab, Python.
+* Language: Mandarin (Native), English (Proficient), Cantonese (Fluent)
+* Programming languages: C, C++, Matlab, Python, Pytorch, Tensorflow.
 * Development environments or tools: Ubuntu, Tensorflow, PyTorch, Spark, Ray, Docker, Selenium.
 
 Service and leadership
 ======
-* Reviewers for IEEE TMC, IEEE TCC, IEEE IoTJ, IEEE TNSESI, IEEE TSUSC, and IEEE INFOCOM.
+* Reviewers for IJCAI, ICML, AAAI, NeurIPS, IEEE TMC, IEEE TCC, IEEE IoTJ, IEEE TNSESI, IEEE TSUSC, and IEEE INFOCOM.
   
