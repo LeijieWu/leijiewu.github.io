@@ -26,13 +26,15 @@ Education Background
 
 Work Experience
 ======
-* __Researcher, Dec. 2024 - Now__
+* __Research Scientist, Dec. 2024 – Present__
   * System Group, Theory Lab (Huawei 2012 Labs), Huawei Hong Kong Research Center.
-  * Duties includes:
-    * Graph-RAG for LLM
-    * Multi-modal Alignment
-    * LLM Speculative Decoding
-    * Model Quantization
+  * Research and technical impact:
+    * **Large Language Model Quantization:** Designed and implemented LLM quantization algorithms informed by recent advances in academic research, achieving over 2× inference speedup without measurable accuracy degradation. The work has been integrated into a joint Huawei–DeepSeek project on end-to-end LLM inference acceleration.
+    * **Speculative Decoding:** Designed and implemented a speculative decoding algorithm based on recent industry research, achieving over 50% inference speedup relative to the multi-token prediction (MTP) baseline on DeepSeek models. The algorithm has also been incorporated into the joint Huawei–DeepSeek project.
+    * **Graph-RAG and Knowledge Graph Construction:** Collaborated with Prof. Yangqiu Song's team at HKUST on [AutoSchemaKG](https://aclanthology.org/2026.acl-long.942/), published at ACL 2026. The underlying graph-based knowledge technologies have been deployed across commercial vertical applications, including the power industry, digital government services, and financial transaction scenarios.
+    * **Multimodal Model Inference Acceleration:** Developed hardware-aware inference optimizations for Vision Transformer (ViT) models on Huawei NPUs. The optimized solution has been commercialized and deployed in a medical image recognition project at a leading tertiary hospital.
+    * **AI Coding Agents:** Developing a graph-based code intelligence framework that constructs graph representations and indexes for large-scale codebases to improve the accuracy of AI coding tasks such as automated code repair.
+    * **Agentic Memory:** Researching and developing an LLM-based memory harness for constructing personalized and domain-specific memory knowledge bases, improving the contextual accuracy and effectiveness of AI agents.
 
 * __Research Intern, Dec. 2023 - Aug. 2024.__
   * System Group, Theory Lab (Huawei 2012 Labs), Huawei Hong Kong Research Center.
@@ -101,5 +103,5 @@ Skills
 
 Service and leadership
 ======
-* Reviewers for IJCAI, ICML, AAAI, NeurIPS, IEEE TMC, IEEE TCC, IEEE IoTJ, IEEE TNSESI, IEEE TSUSC, and IEEE INFOCOM.
+* Reviewer for IJCAI, ICML, AAAI, NeurIPS, IEEE TMC, IEEE TCC, IEEE IoTJ, IEEE TNSESI, IEEE TSUSC, and IEEE INFOCOM.
   
