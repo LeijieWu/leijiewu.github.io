@@ -17,11 +17,14 @@ Before joining PolyU in 2020, I received my Bachelor of Science in Automation at
 
 Since April 2023, I also join the [Scalable Computing Systems Laboratory (SACS Lab)](https://www.epfl.ch/labs/sacs/) as a Visiting Ph.D. student, where I'm very fortunate to be supervised by [Prof. Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec?lang=en) from the [School of Computer and Communication Sciences (IC)](https://www.epfl.ch/schools/ic/) at the [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland.  
 
-My current research topic can be summarized as: **Learning for Learning**, which is to utilize various machine/deep learning techniques to empower further applications in federated learning and Edge computing scenarios.  My research interest includes Federated learning, Edge computing, Reinforcement learning, Incentive mechanism design, and Cooperative game theory.
+My research is driven by a central question: **how can we build AI systems that remain efficient, adaptive, and reliable under real-world constraints in data, computation, and knowledge?** My earlier work focused on federated learning, federated unlearning, and edge intelligence, addressing data privacy, distributed collaboration, and resource constraints. Building on this foundation, my current research extends to foundation models and AI agents, with an emphasis on efficient inference and knowledge- and memory-augmented intelligence. My long-term goal is to develop efficient, knowledge-enhanced, and trustworthy AI systems that bridge advanced learning algorithms with scalable real-world deployment.
 
-<b><font size=6>News</font></b>
+News
+======
 
-TBC
+* **Jul. 2026:** Our paper, [AutoSchemaKG: Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora](https://aclanthology.org/2026.acl-long.942/), was published in the proceedings of ACL 2026.
+* **May 2026:** Our paper, [PP-OpenNet: Privacy-Preserved Open Set Classification for Network Traffic](https://ieeexplore.ieee.org/document/11571190), was published in the proceedings of IEEE INFOCOM 2026.
+* **Dec. 2024:** I joined the Theory Lab at Huawei Hong Kong Research Center as a Research Scientist.
 
 
 <!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
