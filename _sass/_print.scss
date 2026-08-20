@@ -8,11 +8,30 @@
 
 @media print {
   .masthead,
+  .sidebar,
   .toc,
   .page__share,
   .page__related,
   .ads,
+  .cv-print-actions,
   .page__footer {
     display: none;
+  }
+
+  body {
+    padding: 0;
+  }
+
+  #main {
+    max-width: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .archive {
+    float: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
   }
 }

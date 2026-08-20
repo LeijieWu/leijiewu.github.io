@@ -1,0 +1,91 @@
+{% include base_path %}
+
+Education Background
+======
+* __Ph.D. in Computer Science, 2020 - 2024.__
+  * The Department of Computing, The Hong Kong Polytechnic University (PolyU), Hong Kong.
+  * Supervisor: [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo)
+  * Research Interest: Federated Learning, Deep Reinforcement Learning, Federated Unlearning, Game Theory.
+* __Visiting Ph.D. in Computer Science, 2023 - 2024.__
+  * School of Computer and Communication Sciences, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland.
+  * Supervisor: [Prof. Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec?lang=en)
+  * Research Interest: Federated Unlearning.
+* __B.S. in Automation, 2015 - 2019.__
+  * Xuteli School, Beijing Institute of Technology (BIT), China
+  * Supervisor: [Prof. Kun Liu](https://ac.bit.edu.cn/szdw/dsmd/sssds/znxxclykz/60bbd7b470ee432fa2aab4c5b47595d8.htm)
+  * Research Interest: Game Theory, Control Theory.
+
+Honors and Awards
+======
+* **Huawei Hong Kong Research Center Star Award (港研之星) – Team Award, Aug. 2026.**
+  * Awarded as a member of the Knowledge Engineering and Knowledge Graph Team.
+
+Work Experience
+======
+* __Research Scientist, Dec. 2024 – Present__
+  * System Group, Theory Lab (Huawei 2012 Labs), Huawei Hong Kong Research Center.
+  * Research and technical impact:
+    * **Large Language Model Quantization:** Designed and implemented LLM quantization algorithms informed by recent advances in academic research, achieving over 2× inference speedup without measurable accuracy degradation. The work has been integrated into a joint Huawei–DeepSeek project on end-to-end LLM inference acceleration.
+    * **Speculative Decoding:** Designed and implemented a speculative decoding algorithm based on recent industry research, achieving over 50% inference speedup relative to the multi-token prediction (MTP) baseline on DeepSeek models. The algorithm has also been incorporated into the joint Huawei–DeepSeek project.
+    * **Graph-RAG and Knowledge Graph Construction:** Collaborated with Prof. Yangqiu Song's team at HKUST on [AutoSchemaKG](https://aclanthology.org/2026.acl-long.942/), published at ACL 2026. The underlying graph-based knowledge technologies have been deployed across commercial vertical applications, including the power industry, digital government services, and financial transaction scenarios. This work contributed to the Knowledge Engineering and Knowledge Graph Team receiving the Huawei Hong Kong Research Center Star Award (Team Award) in 2026.
+    * **Multimodal Model Inference Acceleration:** Developed hardware-aware inference optimizations for Vision Transformer (ViT) models on Huawei NPUs. The optimized solution has been commercialized and deployed in a medical image recognition project at a leading tertiary hospital.
+    * **AI Coding Agents:** Developing a graph-based code intelligence framework that constructs graph representations and indexes for large-scale codebases to improve the accuracy of AI coding tasks such as automated code repair.
+    * **Agentic Memory:** Researching and developing an LLM-based memory harness for constructing personalized and domain-specific memory knowledge bases, improving the contextual accuracy and effectiveness of AI agents.
+
+* __Research Intern, Dec. 2023 - Aug. 2024.__
+  * System Group, Theory Lab (Huawei 2012 Labs), Huawei Hong Kong Research Center.
+  * Duties includes:
+    * AI-empowered Time Series Forecasting.
+    * Multi-modal Large Language Model based Information Retrieval.
+    * Multi-modal Alignment for Large Language Model Inference.
+
+* __Research Assistant, Sept. 2019 - Sept. 2020.__
+  * Department of Computing, The Hong Kong Polytechnic University (PolyU).
+  * Supervisor: Prof. Song Guo
+  * Duties includes:
+    * Deep Reinforcement Learning-based incentive mechanism design for mobile edge network optimization (e.g., Federated Learning).
+    * Survey the important challenges, open issues and future research directions in mobile edge network.
+
+* __Research Assistant, Nov. 2018 - Jul. 2019.__
+  * State Key Laboratory of Intelligent Control and Decision of Complex Systems, Beijing Institute of Technology (BIT).
+  * Supervisor: Prof. Kun Liu
+  * Duties included:
+    * Cooperative UAV-UGV system modeling and control law design.
+    * Tracking algorithm design under dynamic visibility constraint.
+
+* __Embedded System Software Engineer, Apr. 2018 - Oct. 2018.__
+  * R&D Department, Zhejiang Dahua Technology Co. Ltd.
+  * Duties included:
+    * Project code debugging and automatic testing
+    * Use case test of the dome camera's artificial intelligence modules, including Face Recognition, Tripwire Intrusion, People Counting, etc.
+    * Testing internal code coverage rate research project.
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Teaching
+======
+* Teaching Assistant, COMP4431: Artificial Intelligence, 2020 Fall.
+* Teaching Assistant, COMP4434: Big Data Analytics, 2021 Fall.
+* Teaching Assistant, COMP5511: Artificial Intelligence Concept, 2022 Spring.
+* Teaching Assistant, COMP5511: Artificial Intelligence Concept, 2022 Fall.
+* Teaching Assistant, COMP4121: E-Commerce Technology and Applications, 2023 Spring.
+
+Skills
+======
+* Language: Mandarin (Native), English (Proficient), Cantonese (Fluent)
+* Programming languages: C, C++, Matlab, Python, Pytorch, Tensorflow.
+* Development environments or tools: Ubuntu, Tensorflow, PyTorch, Spark, Ray, Docker, Selenium.
+
+Service and leadership
+======
+* Reviewer for IJCAI, ICML, AAAI, NeurIPS, IEEE TMC, IEEE TCC, IEEE IoTJ, IEEE TNSESI, IEEE TSUSC, and IEEE INFOCOM.

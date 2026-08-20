@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex">
+    <title>Leijie Wu — Curriculum Vitae</title>
+    <style>
+      :root {
+        --cv-accent: #238ca5;
+        --cv-ink: #263238;
+        --cv-muted: #607078;
+        --cv-rule: #cbd7dc;
+      }
+
+      * { box-sizing: border-box; }
+      html { background: #e8eef1; }
+
+      body {
+        margin: 0;
+        color: var(--cv-ink);
+        font-family: "Helvetica Neue", Arial, sans-serif;
+        font-size: 10pt;
+        line-height: 1.42;
+      }
+
+      .cv-toolbar {
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        display: flex;
+        justify-content: center;
+        gap: 0.65rem;
+        padding: 0.75rem;
+        background: rgba(31, 44, 50, 0.94);
+      }
+
+      .cv-toolbar button,
+      .cv-toolbar a {
+        padding: 0.55rem 0.9rem;
+        border: 1px solid rgba(255, 255, 255, 0.35);
+        border-radius: 4px;
+        color: #fff;
+        background: var(--cv-accent);
+        font: 600 0.9rem/1.2 "Helvetica Neue", Arial, sans-serif;
+        text-decoration: none;
+        cursor: pointer;
+      }
+
+      .cv-toolbar a { background: transparent; }
+
+      .cv-sheet {
+        width: 210mm;
+        min-height: 297mm;
+        margin: 10mm auto;
+        padding: 15mm 17mm;
+        background: #fff;
+        box-shadow: 0 4px 24px rgba(31, 44, 50, 0.14);
+      }
+
+      .cv-header {
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-between;
+        gap: 1.5rem;
+        padding-bottom: 4mm;
+        border-bottom: 2px solid var(--cv-accent);
+      }
+
+      .cv-header__name {
+        margin: 0;
+        color: var(--cv-ink);
+        font-size: 25pt;
+        font-weight: 700;
+        letter-spacing: -0.035em;
+        line-height: 1;
+      }
+
+      .cv-header__role {
+        margin: 0.3rem 0 0;
+        color: var(--cv-accent);
+        font-size: 10.5pt;
+        font-weight: 600;
+      }
+
+      .cv-header__contact {
+        margin: 0;
+        color: var(--cv-muted);
+        font-size: 8.7pt;
+        line-height: 1.5;
+        text-align: right;
+      }
+
+      .cv-header a,
+      .cv-content a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      .cv-content > h1 {
+        margin: 5mm 0 2.2mm;
+        padding-bottom: 1.2mm;
+        color: var(--cv-accent);
+        border-bottom: 1px solid var(--cv-rule);
+        font-size: 11pt;
+        font-weight: 700;
+        letter-spacing: 0.075em;
+        line-height: 1.2;
+        text-transform: uppercase;
+      }
+
+      .cv-content h2,
+      .cv-content h3 {
+        margin: 2.4mm 0 1mm;
+        color: var(--cv-ink);
+        font-size: 9.6pt;
+        line-height: 1.25;
+      }
+
+      .cv-content p { margin: 0 0 1.8mm; }
+
+      .cv-content ul,
+      .cv-content ol {
+        margin: 0 0 2mm;
+        padding-left: 5mm;
+      }
+
+      .cv-content li { margin: 0 0 1.2mm; }
+      .cv-content li > ul { margin-top: 1mm; margin-bottom: 1.2mm; }
+      .cv-content li::marker { color: var(--cv-accent); }
+
+      .cv-content .list__item,
+      .cv-content .archive__item {
+        margin: 0 0 2.2mm;
+        break-inside: avoid;
+      }
+
+      .cv-content .archive__item-title { margin-bottom: 0.8mm; }
+      .cv-content .archive__item-excerpt { color: var(--cv-muted); }
+      .cv-content .page__meta { display: none; }
+
+      .cv-content h1,
+      .cv-content h2,
+      .cv-content h3 { break-after: avoid; }
+
+      @media (max-width: 850px) {
+        .cv-sheet {
+          width: 100%;
+          min-height: 0;
+          margin: 0;
+          padding: 1.2rem;
+          box-shadow: none;
+        }
+
+        .cv-header { align-items: flex-start; flex-direction: column; }
+        .cv-header__contact { text-align: left; }
+      }
+
+      @page { size: A4; margin: 12mm 14mm; }
+
+      @media print {
+        html, body { background: #fff; }
+        .cv-toolbar { display: none; }
+        .cv-sheet {
+          width: auto;
+          min-height: 0;
+          margin: 0;
+          padding: 0;
+          box-shadow: none;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="cv-toolbar" aria-label="CV actions">
+      <button type="button" onclick="window.print()">Download / Save as PDF</button>
+      <a href="{{ site.url }}{{ site.baseurl }}/cv/">Back to web CV</a>
+    </nav>
+
+    <main class="cv-sheet">
+      <header class="cv-header">
+        <div>
+          <h1 class="cv-header__name">Leijie Wu</h1>
+          <p class="cv-header__role">Research Scientist · Huawei Hong Kong Research Center</p>
+        </div>
+        <p class="cv-header__contact">
+          <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><br>
+          <a href="{{ site.url }}{{ site.baseurl }}/">{{ site.url | remove: 'https://' | remove: 'http://' }}</a><br>
+          <a href="{{ site.author.googlescholar }}">Google Scholar</a> · <a href="{{ site.author.orcid }}">ORCID</a>
+        </p>
+      </header>
+      <article class="cv-content">
+        {{ content }}
+      </article>
+    </main>
+
+    <script>
+      if (new URLSearchParams(window.location.search).get('print') === '1') {
+        window.addEventListener('load', function () {
+          window.setTimeout(function () { window.print(); }, 250);
+        });
+      }
+    </script>
+  </body>
+</html>

@@ -22,6 +22,7 @@ My research is driven by a central question: **how can we build AI systems that 
 News
 ======
 
+* **Aug. 2026:** Our Knowledge Engineering and Knowledge Graph Team received the Huawei Hong Kong Research Center Star Award (港研之星) – Team Award.
 * **Jul. 2026:** Our paper, [AutoSchemaKG: Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora](https://aclanthology.org/2026.acl-long.942/), was published in the proceedings of ACL 2026.
 * **May 2026:** Our paper, [PP-OpenNet: Privacy-Preserved Open Set Classification for Network Traffic](https://ieeexplore.ieee.org/document/11571190), was published in the proceedings of IEEE INFOCOM 2026.
 * **Dec. 2024:** I joined the Theory Lab at Huawei Hong Kong Research Center as a Research Scientist.
