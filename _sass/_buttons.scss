@@ -151,3 +151,17 @@
     font-size: $type-size-7;
   }
 }
+
+.cv-print-actions {
+  margin-bottom: 1em;
+
+  .btn,
+  .btn:hover,
+  .btn:focus {
+    text-decoration: none;
+  }
+
+  i {
+    margin-right: 0.35em;
+  }
+}
