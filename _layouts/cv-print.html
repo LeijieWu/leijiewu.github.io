@@ -138,6 +138,20 @@
       .cv-content li > ul { margin-top: 1mm; margin-bottom: 1.2mm; }
       .cv-content li::marker { color: var(--cv-accent); }
 
+      .cv-content .cv-publication {
+        margin-bottom: 1.5mm;
+        break-inside: avoid;
+      }
+
+      .cv-content .cv-publication p { margin: 0; }
+
+      .cv-content .cv-presentation {
+        margin-bottom: 1.5mm;
+        break-inside: avoid;
+      }
+
+      .cv-content .cv-presentation p { margin: 0; }
+
       .cv-content .list__item,
       .cv-content .archive__item {
         margin: 0 0 2.2mm;
@@ -193,7 +207,7 @@
           <p class="cv-header__role">Research Scientist · Huawei Hong Kong Research Center</p>
         </div>
         <p class="cv-header__contact">
-          <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><br>
+          <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> · {{ site.author.phone }}<br>
           <a href="{{ site.url }}{{ site.baseurl }}/">{{ site.url | remove: 'https://' | remove: 'http://' }}</a><br>
           <a href="{{ site.author.googlescholar }}">Google Scholar</a> · <a href="{{ site.author.orcid }}">ORCID</a>
         </p>

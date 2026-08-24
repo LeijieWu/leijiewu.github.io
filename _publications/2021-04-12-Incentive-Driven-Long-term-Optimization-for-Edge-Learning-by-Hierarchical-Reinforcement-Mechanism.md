@@ -1,6 +1,7 @@
 ---
 title: "Incentive-Driven Long-term Optimization for Edge Learning by Hierarchical Reinforcement Mechanism"
 collection: publications
+publication_type: conference
 permalink: /publication/2021-04-12-Incentive-Driven-Long-term-Optimization-for-Edge-Learning-by-Hierarchical-Reinforcement-Mechanism
 excerpt: 'This paper is about the incentive-driven long-term optimization for edge learning.'
 date: 2021-04-12

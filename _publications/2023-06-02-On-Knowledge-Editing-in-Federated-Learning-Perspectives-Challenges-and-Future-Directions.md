@@ -1,12 +1,13 @@
 ---
 title: "On Knowledge Editing in Federated Learning: Perspectives, Challenges, and Future Directions"
 collection: publications
+publication_type: preprint
 permalink: /publication/2023-06-02-On-Knowledge-Editing-in-Federated-Learning-Perspectives-Challenges-and-Future-Directions
 excerpt: 'This paper is about knowledge editing in federated learning.'
 date: 2023-06-02
-venue: 'ArXiv'
+venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2306.01431' 
-citation: '<b>Leijie Wu</b>, Song Guo, Junxiao Wang, Zicong Hong, Jie Zhang, and Jingren Zhou. &quot;On Knowledge Editing in Federated Learning: Perspectives, Challenges, and Future Directions.&quot; <i>ArXiv</i>. 2023.'
+citation: '<b>Leijie Wu</b>, Song Guo, Junxiao Wang, Zicong Hong, Jie Zhang, and Jingren Zhou. &quot;On Knowledge Editing in Federated Learning: Perspectives, Challenges, and Future Directions.&quot; <i>arXiv</i>. 2023.'
 ---
 
 

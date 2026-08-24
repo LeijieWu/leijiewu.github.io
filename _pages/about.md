@@ -9,13 +9,13 @@ redirect_from:
 
 Welcome to my personal space of interest!  
 
-I'm Leijie (Eric) Wu, currently a research scientist in the Theory Lab (Huawei 2012 Labs), Huawei Hong Kong Research Center (HKRC), joined at Dec. 2024.
+I'm Leijie (Eric) Wu, a Research Scientist in the Theory Lab (Huawei 2012 Labs) at Huawei Hong Kong Research Center (HKRC), which I joined in December 2024.
 
-I obtain my Ph.D. Degree from the [Department of Computing (COMP)](https://www.polyu.edu.hk/comp) at the [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). My supervisor is [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), who is currently a Chair Professor in the [Department of Computer Science and Engineering (CSE)](https://cse.hkust.edu.hk/) at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
+I received my Ph.D. in Computer Science from the [Department of Computing (COMP)](https://www.polyu.edu.hk/comp) at the [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/) on December 11, 2024. I was supervised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), who is currently a Chair Professor in the [Department of Computer Science and Engineering (CSE)](https://cse.hkust.edu.hk/) at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
 
 Before joining PolyU in 2020, I received my Bachelor of Science in Automation at the Beijing Institute of Technology (BIT).
 
-Since April 2023, I also join the [Scalable Computing Systems Laboratory (SACS Lab)](https://www.epfl.ch/labs/sacs/) as a Visiting Ph.D. student, where I'm very fortunate to be supervised by [Prof. Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec?lang=en) from the [School of Computer and Communication Sciences (IC)](https://www.epfl.ch/schools/ic/) at the [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland.  
+From May to December 2023, I was a Visiting Ph.D. Student in the [Scalable Computing Systems Laboratory (SACS Lab)](https://www.epfl.ch/labs/sacs/) at the [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland, where I was supervised by [Prof. Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec?lang=en) from the [School of Computer and Communication Sciences (IC)](https://www.epfl.ch/schools/ic/).
 
 My research is driven by a central question: **how can we build AI systems that remain efficient, adaptive, and reliable under real-world constraints in data, computation, and knowledge?** My earlier work focused on federated learning, federated unlearning, and edge intelligence, addressing data privacy, distributed collaboration, and resource constraints. Building on this foundation, my current research extends to foundation models and AI agents, with an emphasis on efficient inference and knowledge- and memory-augmented intelligence. My long-term goal is to develop efficient, knowledge-enhanced, and trustworthy AI systems that bridge advanced learning algorithms with scalable real-world deployment.
 

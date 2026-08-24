@@ -1,6 +1,7 @@
 ---
 title: "Federated Unlearning: Guarantee the Right of Clients to Forget"
 collection: publications
+publication_type: journal
 permalink: /publication/2022-10-25-Federated-Unlearning-Guarantee-the-Right-of-Clients-to-Forget
 excerpt: 'This paper is about the federated unlearning.'
 date: 2022-10-25

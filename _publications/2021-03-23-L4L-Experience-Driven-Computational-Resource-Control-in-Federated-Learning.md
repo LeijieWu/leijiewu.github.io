@@ -1,6 +1,7 @@
 ---
 title: "L4L: Experience-Driven Computational Resource Control in Federated Learning"
 collection: publications
+publication_type: journal
 permalink: /publication/2021-03-23-L4L-Experience-Driven-Computational-Resource-Control-in-Federated-Learning
 excerpt: 'This paper is about using deep reinforemecent learning to control the resource distribution in federated learning.'
 date: 2021-03-23

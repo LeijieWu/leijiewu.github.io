@@ -1,6 +1,7 @@
 ---
 title: "Chiron: A Robustness-Aware Incentive Scheme for Edge Learning Via Hierarchical Reinforcement Learning"
 collection: publications
+publication_type: journal
 permalink: /publication/2024-01-08-Chiron-A-Robustness-Aware-Incentive-Scheme-for-Edge-Learning-Via-Hierarchical-Reinforcement-Learning
 excerpt: 'This paper is about incentive mechanism design in federated learning.'
 date: 2024-01-08

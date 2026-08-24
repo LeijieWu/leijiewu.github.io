@@ -1,6 +1,7 @@
 ---
 title: "PP-OpenNet: Privacy-Preserved Open Set Classification for Network Traffic"
 collection: publications
+publication_type: conference
 permalink: /publication/2026-05-18-PP-OpenNet-Privacy-Preserved-Open-Set-Classification-for-Network-Traffic
 excerpt: 'This paper is about privacy-preserved open set classification for network traffic.'
 date: 2026-05-18

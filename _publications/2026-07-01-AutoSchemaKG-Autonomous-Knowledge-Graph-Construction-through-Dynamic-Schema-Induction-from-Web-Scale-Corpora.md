@@ -1,6 +1,7 @@
 ---
 title: "AutoSchemaKG: Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora"
 collection: publications
+publication_type: conference
 permalink: /publication/2026-07-01-AutoSchemaKG-Autonomous-Knowledge-Graph-Construction-through-Dynamic-Schema-Induction-from-Web-Scale-Corpora
 excerpt: 'This paper is about autonomous knowledge graph construction through dynamic schema induction from web-scale corpora.'
 date: 2026-07-01
