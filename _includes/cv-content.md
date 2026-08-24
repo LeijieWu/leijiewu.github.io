@@ -2,11 +2,22 @@
 
 Academic Profile
 ======
-Research scientist specializing in **efficient, knowledge-enhanced, and trustworthy AI systems**. My research connects federated and edge intelligence with efficient foundation-model inference and knowledge- and memory-augmented AI agents. I combine algorithm and system development with real-world deployment across financial services, digital government, energy, and healthcare. My future research focuses on agentic AI systems that can construct structured knowledge, maintain reliable long-term memory, and operate efficiently under practical data and computing constraints.
+Research scientist specializing in **efficient, knowledge-enhanced, and trustworthy AI systems**. My research connects federated and edge intelligence with efficient foundation-model inference and knowledge- and memory-augmented AI agents. I develop algorithms and systems for deployment across financial services, digital government, energy, and healthcare, with a long-term focus on reliable agentic AI under practical data and computing constraints.
 
 Research Interests
 ======
 Agentic AI and long-term memory; graph-based retrieval-augmented generation and knowledge graphs; efficient foundation-model inference; federated, privacy-preserving, and edge intelligence.
+
+Education
+======
+* __Ph.D. in Computer Science, The Hong Kong Polytechnic University, 2020 – 2024.__
+  * Degree conferred Dec. 11, 2024; supervised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo).
+  * Dissertation: *Cooperation & Competition: Mechanism Design for Federated Optimization of Edge Intelligence*.
+* __Visiting Ph.D. Student, École Polytechnique Fédérale de Lausanne, May 2023 – Dec. 2023.__
+  * School of Computer and Communication Sciences; supervised by [Prof. Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec?lang=en).
+  * Research focus: federated unlearning.
+* __B.S. in Automation, Beijing Institute of Technology, 2015 – 2019.__
+  * Xuteli School; research focus: game theory and control theory.
 
 Research Appointments and Experience
 ======
@@ -31,17 +42,6 @@ Research Appointments and Experience
 
 * __Embedded Systems Software Engineer, Apr. 2018 – Oct. 2018__
   * Zhejiang Dahua Technology Co., Ltd.; worked on debugging, automated testing, and code-coverage analysis for embedded AI camera systems.
-
-Education
-======
-* __Ph.D. in Computer Science, The Hong Kong Polytechnic University, 2020 – 2024.__
-  * Degree conferred Dec. 11, 2024; supervised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo).
-  * Dissertation: *Cooperation & Competition: Mechanism Design for Federated Optimization of Edge Intelligence*.
-* __Visiting Ph.D. Student, École Polytechnique Fédérale de Lausanne, May 2023 – Dec. 2023.__
-  * School of Computer and Communication Sciences; supervised by [Prof. Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec?lang=en).
-  * Research focus: federated unlearning.
-* __B.S. in Automation, Beijing Institute of Technology, 2015 – 2019.__
-  * Xuteli School; research focus: game theory and control theory.
 
 Research Agenda and Current Pipeline
 ======
