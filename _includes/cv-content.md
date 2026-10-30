@@ -2,11 +2,11 @@
 
 Academic Profile
 ======
-Research scientist specializing in **efficient, knowledge-enhanced, and trustworthy AI systems**. My research connects federated and edge intelligence with efficient foundation-model inference and knowledge- and memory-augmented AI agents. I develop algorithms and systems for deployment across financial services, digital government, energy, and healthcare, with a long-term focus on reliable agentic AI under practical data and computing constraints.
+Research scientist at Huawei Hong Kong Research Center working on **efficient, knowledge-enhanced, and trustworthy AI systems**. My research connects federated and edge intelligence with foundation-model inference and memory-augmented agents. I bring experience in algorithm research, industrial system integration, English-medium university teaching, and student research mentoring.
 
 Research Interests
 ======
-Agentic AI and long-term memory; graph-based retrieval-augmented generation and knowledge graphs; efficient foundation-model inference; federated, privacy-preserving, and edge intelligence.
+Efficient LLM inference; agentic retrieval and memory; knowledge graphs; federated learning, unlearning, and edge intelligence.
 
 Education
 ======
@@ -14,8 +14,7 @@ Education
   * Degree conferred Dec. 11, 2024; supervised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo).
   * Dissertation: *Cooperation & Competition: Mechanism Design for Federated Optimization of Edge Intelligence*.
 * __Visiting Ph.D. Student, École Polytechnique Fédérale de Lausanne, May 2023 – Dec. 2023.__
-  * School of Computer and Communication Sciences; supervised by [Prof. Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec?lang=en).
-  * Research focus: federated unlearning.
+  * School of Computer and Communication Sciences; federated unlearning with [Prof. Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec?lang=en).
 * __B.S. in Automation, Beijing Institute of Technology, 2015 – 2019.__
   * Xuteli School; research focus: game theory and control theory.
 
@@ -23,34 +22,22 @@ Research Appointments and Experience
 ======
 * __Research Scientist, Dec. 2024 – Present__
   * System Group, Theory Lab (Huawei 2012 Labs), Huawei Hong Kong Research Center.
-  * **Efficient LLM inference:** Developed model-quantization algorithms that achieve more than 2× inference acceleration without measurable accuracy degradation, and a speculative-decoding method that delivers more than 50% speedup over the multi-token prediction baseline on DeepSeek models. Both have been incorporated into a joint Huawei–DeepSeek LLM inference-acceleration project.
-  * **Knowledge-enhanced AI:** Collaborated with Prof. Yangqiu Song's team at HKUST on [AutoSchemaKG](https://aclanthology.org/2026.acl-long.942/). Related Graph-RAG and knowledge-graph technologies have been deployed for high-precision question answering over financial transactions, nuclear power plant technical manuals, and digital government services.
-  * **Agentic AI:** Developed graph-based code intelligence and agentic-memory prototypes with measurable gains on SWE-bench Pro and LoCoMo; detailed results are summarized under Research Agenda and Current Pipeline.
-  * **Multimodal inference acceleration:** Developed hardware-aware optimizations for Vision Transformer models on Huawei NPUs; the solution was commercialized for a medical image-recognition project at a leading tertiary hospital.
+  * **Efficient AI systems:** Developed sparse-attention and KV-cache methods, including a GQA approach integrated into Huawei's Unified Cache Management (UCM). Internal Qwen3-32B-BF16 tests on Ascend 910B2 (64 GB) showed 46% higher output throughput than full attention at 60K input / 4K output tokens. Additional work includes W4A8 deployment, speculative decoding, and vision-model optimization for a hospital application.
+  * **Knowledge-enhanced AI:** Collaborated with Prof. Yangqiu Song's team at HKUST on [AutoSchemaKG](https://aclanthology.org/2026.acl-long.942/). Developed hybrid vector/graph retrieval and knowledge-graph maintenance for applications in financial services, energy, and digital government.
+  * **Agentic retrieval and memory:** Developed query decomposition and adaptive retrieval chains, improving MuSiQue retrieval recall from 35.9% to 64.2% over the internally evaluated baseline. Current work extends to long-term agent memory and graph-based code intelligence.
+  * Detailed methods, evaluation conditions, and project status: [Research Portfolio](https://leijiewu.github.io/research/).
 
-* __Research Intern, Dec. 2023 – Aug. 2024__
-  * System Group, Theory Lab (Huawei 2012 Labs), Huawei Hong Kong Research Center.
-  * Conducted research on AI-empowered time-series forecasting and multimodal LLM-based information retrieval.
+* __Research Intern, Huawei Hong Kong Research Center, Dec. 2023 – Aug. 2024.__ Theory Lab; time-series forecasting and multimodal LLM-based retrieval.
 
-* __Research Assistant, Sept. 2019 – Sept. 2020__
-  * Department of Computing, The Hong Kong Polytechnic University; supervised by Prof. Song Guo.
-  * Studied deep-reinforcement-learning-based incentive mechanisms and resource optimization for federated learning and mobile edge intelligence.
+* __Research Assistant, The Hong Kong Polytechnic University, Sept. 2019 – Sept. 2020.__ Department of Computing; federated-learning incentives and edge resource optimization with Prof. Song Guo.
 
-* __Research Assistant, Nov. 2018 – Jul. 2019__
-  * State Key Laboratory of Intelligent Control and Decision of Complex Systems, Beijing Institute of Technology; supervised by Prof. Kun Liu.
-  * Developed cooperative UAV–UGV system models, control laws, and tracking algorithms under dynamic visibility constraints.
+* __Research Assistant, Beijing Institute of Technology, Nov. 2018 – Jul. 2019.__ Cooperative UAV–UGV modeling, control, and tracking under visibility constraints with Prof. Kun Liu.
 
-* __Embedded Systems Software Engineer, Apr. 2018 – Oct. 2018__
-  * Zhejiang Dahua Technology Co., Ltd.; worked on debugging, automated testing, and code-coverage analysis for embedded AI camera systems.
+* __Embedded Systems Software Engineer, Zhejiang Dahua Technology Co., Ltd., Apr. – Oct. 2018.__ Debugging, automated testing, and code-coverage analysis for embedded AI camera systems.
 
-Research Agenda and Current Pipeline
+Research Agenda
 ======
-My current research agenda centers on **knowledge- and memory-augmented agentic AI systems**, building on my earlier work in federated learning, privacy-aware optimization, and edge intelligence.
-
-* **Agentic Memory for Personalized and Domain-Specific AI:** Developing a memory harness that enables AI agents to acquire, organize, retrieve, update, and maintain long-term knowledge. A prototype evaluated on LoCoMo outperforms Huawei's open-source Jiuwen-Memory baseline by 29.6 percentage points in Recall@20 and 12.4 percentage points in question-answering accuracy. Ongoing research investigates memory quality, consistency, privacy, and downstream agent performance.
-* **Graph-Based Knowledge Construction and Retrieval:** Extending autonomous knowledge construction and Graph-RAG toward continuously updated domain knowledge systems. Current enterprise validation focuses on high-precision question answering in finance, nuclear power, and digital government, with follow-up academic research under development.
-* **Graph-Based Code Intelligence:** Constructing graph representations and indexes over large code repositories to support repository-level retrieval, reasoning, and automated repair. On SWE-bench Pro, the current system improves the issue-resolution pass rate by 13.5 percentage points over a Codex baseline.
-* **Efficient and Trustworthy Agent Deployment:** Investigating model compression, speculative decoding, hardware-aware optimization, and privacy-preserving learning to deploy agentic AI under practical latency, computing, and data-governance constraints.
+**Knowledge- and memory-augmented agentic AI:** reliable evolving knowledge, adaptive retrieval, repository-level reasoning, and efficient, privacy-aware deployment. Detailed directions and prototype results: [Research Portfolio](https://leijiewu.github.io/research/).
 
 Publications
 ======

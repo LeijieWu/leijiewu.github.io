@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Leijie Wu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Leijie Wu"
-description              : &description "personal description"
+description              : &description "Leijie Wu researches efficient and trustworthy AI, foundation-model inference, knowledge graphs, and memory-augmented agents at Huawei Hong Kong Research Center."
 url                      : https://leijiewu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LeijieWu/leijiewu.github.io" # "academicpages/academicpages.github.io"
@@ -148,6 +148,11 @@ include:
   - _pages
   - files
 exclude:
+  - huawei_transfer.md
+  - local
+  - scripts
+  - Full_CV.docx
+  - CV_MAINTENANCE.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

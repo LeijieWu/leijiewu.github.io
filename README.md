@@ -1,5 +1,15 @@
 
-# Academic Pages
+# Leijie Wu Personal Website
+
+The research portfolio is maintained in _pages/research.md; the general CV uses _includes/cv-content.md. See [CV_MAINTENANCE.md](CV_MAINTENANCE.md) for source ownership, role-specific CV selection, export, and local preview.
+
+Quick content preview on this Windows workstation:
+
+    & 'D:/miniconda3/envs/lawagent/python.exe' -X utf8 scripts/preview_site.py
+
+Open http://127.0.0.1:4000/. This is a content preview; use Jekyll for the full theme.
+
+## Academic Pages Template
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 

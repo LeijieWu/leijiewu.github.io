@@ -7,7 +7,7 @@ excerpt: 'This paper is about personalized federated learning.'
 date: 2024-04-23
 venue: 'IEEE Transactions on Mobile Computing (TMC) (CCF-A)'
 paperurl: 'https://ieeexplore.ieee.org/document/10517642' 
-citation: '<b>Leijie Wu</b>, Song Guo, Yaohong Ding, Junxiao Wang, Wenchao Xu, Yufeng Zhan, and Anne-Marie Kermarrec. &quot;Rethinking Personalized Client Collaboration in Federated Learning.&quot; <i>IEEE Transactions on Mobile Computing (TMC)</i>. 2024.'
+citation: '<b>Leijie Wu</b>, Song Guo, Yaohong Ding, Junxiao Wang, Wenchao Xu, Yufeng Zhan, and Anne-Marie Kermarrec. &quot;Rethinking Personalized Client Collaboration in Federated Learning.&quot; <i>IEEE Transactions on Mobile Computing (TMC)</i>. 2024; 23(12): 11227-11239.'
 ---
 
 

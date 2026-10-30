@@ -10,3 +10,9 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Local source notes and generated working files
+huawei_transfer.md
+__pycache__/
+*.pyc
+~$*.docx
