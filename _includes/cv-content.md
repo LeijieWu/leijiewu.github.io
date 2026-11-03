@@ -2,11 +2,11 @@
 
 Academic Profile
 ======
-Research scientist at Huawei Hong Kong Research Center working on **efficient, knowledge-enhanced, and trustworthy AI systems**. My research connects federated and edge intelligence with foundation-model inference and memory-augmented agents. I bring experience in algorithm research, industrial system integration, English-medium university teaching, and student research mentoring.
+Research scientist at Huawei Hong Kong Research Center focusing on **agentic retrieval and memory, knowledge graphs, and efficient AI systems**. Building on federated and edge intelligence, I study how agents retrieve and retain knowledge, supported by Graph-RAG, KV-cache sparsity, and model quantization. I bring experience in algorithm research, industrial system integration, English-medium university teaching, and student research mentoring.
 
 Research Interests
 ======
-Efficient LLM inference; agentic retrieval and memory; knowledge graphs; federated learning, unlearning, and edge intelligence.
+Agentic retrieval and memory; knowledge graphs and Graph-RAG; long-context inference and KV-cache sparsity; model quantization and deployment; federated learning, unlearning, and edge intelligence.
 
 Education
 ======
@@ -22,9 +22,10 @@ Research Appointments and Experience
 ======
 * __Research Scientist, Dec. 2024 – Present__
   * System Group, Theory Lab (Huawei 2012 Labs), Huawei Hong Kong Research Center.
-  * **Efficient AI systems:** Developed sparse-attention and KV-cache methods, including a GQA approach integrated into Huawei's Unified Cache Management (UCM). Internal Qwen3-32B-BF16 tests on Ascend 910B2 (64 GB) showed 46% higher output throughput than full attention at 60K input / 4K output tokens. Additional work includes W4A8 deployment, speculative decoding, and vision-model optimization for a hospital application.
-  * **Knowledge-enhanced AI:** Collaborated with Prof. Yangqiu Song's team at HKUST on [AutoSchemaKG](https://aclanthology.org/2026.acl-long.942/). Developed hybrid vector/graph retrieval and knowledge-graph maintenance for applications in financial services, energy, and digital government.
-  * **Agentic retrieval and memory:** Developed query decomposition and adaptive retrieval chains, improving MuSiQue retrieval recall from 35.9% to 64.2% over the internally evaluated baseline. Current work extends to long-term agent memory and graph-based code intelligence.
+  * **Agentic retrieval and memory:** Developed query decomposition and adaptive retrieval chains, improving MuSiQue retrieval recall from 35.9% to 64.2% over the internally evaluated baseline. Built a long-term memory prototype with gains of 29.6 percentage points in Recall@20 and 12.4 percentage points in QA accuracy over the evaluated Jiuwen-Memory baseline on LoCoMo. Related work includes graph-based code intelligence.
+  * **Knowledge graphs and Graph-RAG:** Developed hybrid vector/graph retrieval and knowledge-graph maintenance for applications in financial services, energy, and digital government. Collaborated with Prof. Yangqiu Song's team at HKUST on [AutoSchemaKG](https://aclanthology.org/2026.acl-long.942/).
+  * **KV-cache sparsity and UCM:** Developed sparse-attention and KV-cache methods, including a GQA approach integrated into Huawei's Unified Cache Management (UCM). Internal Qwen3-32B-BF16 tests on Ascend 910B2 (64 GB) showed 46% higher output throughput than full attention at 60K input / 4K output tokens.
+  * **Model quantization and deployment:** Developed per-channel W4A8 quantization for single-server deployment of a 671B-parameter DeepSeek model on Ascend 910B. Related work includes speculative decoding and vision-model optimization for a hospital application.
   * Detailed methods, evaluation conditions, and project status: [Research Portfolio](https://leijiewu.github.io/research/).
 
 * __Research Intern, Huawei Hong Kong Research Center, Dec. 2023 – Aug. 2024.__ Theory Lab; time-series forecasting and multimodal LLM-based retrieval.
@@ -37,7 +38,7 @@ Research Appointments and Experience
 
 Research Agenda
 ======
-**Knowledge- and memory-augmented agentic AI:** reliable evolving knowledge, adaptive retrieval, repository-level reasoning, and efficient, privacy-aware deployment. Detailed directions and prototype results: [Research Portfolio](https://leijiewu.github.io/research/).
+**Knowledge- and memory-augmented agentic AI:** adaptive retrieval, long-term memory, repository-level reasoning, and evolving knowledge graphs, supported by efficient, privacy-aware deployment. Detailed directions and prototype results: [Research Portfolio](https://leijiewu.github.io/research/).
 
 Publications
 ======

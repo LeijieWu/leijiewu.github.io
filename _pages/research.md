@@ -3,18 +3,62 @@ layout: single
 title: "Research Portfolio"
 permalink: /research/
 author_profile: true
-description: "Detailed research projects, industrial translation, and ongoing AI research by Leijie Wu."
+description: "Agentic retrieval and memory, knowledge graphs and Graph-RAG, KV-cache sparsity, and model quantization research by Leijie Wu."
 ---
 
-My research connects efficient, knowledge-enhanced, and trustworthy AI systems. This portfolio records the problems, contributions, evaluation context, and current status behind the highlights in my [CV]({{ '/cv/' | relative_url }}). Peer-reviewed outputs are listed separately under [Publications]({{ '/publications/' | relative_url }}).
+My current research focuses primarily on agentic retrieval and memory. My related work spans knowledge graphs and Graph-RAG, long-context inference with KV-cache sparsity, and model quantization and deployment. These directions build on my earlier work in federated and edge intelligence. This portfolio records the problems, contributions, evaluation context, and current status behind the highlights in my [CV]({{ '/cv/' | relative_url }}). Peer-reviewed outputs are listed separately under [Publications]({{ '/publications/' | relative_url }}).
 
-**Explore:** [Efficient inference](#efficient-inference) · [Agentic retrieval](#agentic-retrieval) · [Knowledge systems](#knowledge-systems) · [Ongoing research](#ongoing-research) · [Academic foundations](#academic-foundations)
+**Explore:** [Agentic retrieval and memory](#agentic-retrieval) · [Knowledge graphs and Graph-RAG](#knowledge-systems) · [KV-cache sparsity and UCM](#kv-cache-sparsity) · [Quantization and deployment](#quantization-deployment) · [Academic foundations](#academic-foundations)
 
 The industrial work below was carried out during my current Research Scientist appointment at Huawei Hong Kong Research Center, which began in December 2024. Quantitative results are from internal evaluations under the stated conditions; they are not general performance guarantees or a substitute for peer-reviewed evidence. Related algorithms are grouped as research programmes rather than counted as separate products.
 
-<h2 id="efficient-inference">Efficient inference and deployment</h2>
+<h2 id="agentic-retrieval">Agentic retrieval and memory</h2>
 
-### R1 · Long-context sparse attention and KV-cache management
+### R1 · Query decomposition and adaptive retrieval chains
+
+**Focus:** Agentic RAG · Multi-hop question answering · Small-model fine-tuning
+
+**Problem.** Complex questions may require evidence gathered through several dependent retrieval steps; a single retrieval pass can miss the necessary connections.
+
+**Contribution.** I developed a chain-of-retrieval framework that decomposes queries, retrieves evidence, and adapts subsequent subqueries using earlier results. Training combines sampled and verified retrieval trajectories with supervised fine-tuning of a small model. Potential applications include complex question answering and knowledge-intensive assistants.
+
+**Selected evaluation.** Retrieval recall improved over the internally evaluated baseline as follows:
+
+| Dataset | Baseline recall | Method recall | Absolute gain |
+| --- | ---: | ---: | ---: |
+| 2WikiMultiHopQA | 70.5% | 85.4% | 14.9 percentage points |
+| MuSiQue | 35.9% | 64.2% | 28.3 percentage points |
+
+These figures describe retrieval recall, not answer accuracy. The baseline implementation, model versions, and precise recall definition are required for a reproducible comparison; this summary does not claim superiority over every published method.
+
+<span id="ongoing-research"></span>
+
+### R2 · Long-term memory for AI agents
+
+I am developing mechanisms for agents to acquire, organize, retrieve, update, and maintain knowledge over time. A prototype evaluated on LoCoMo showed gains of 29.6 percentage points in Recall@20 and 12.4 percentage points in question-answering accuracy over the evaluated Jiuwen-Memory baseline. These internal prototype results remain separate from published work; model and baseline versions matter when interpreting the comparison. Current research examines memory quality, consistency, privacy, and downstream task performance.
+
+### R3 · Graph-based code intelligence
+
+I am developing graph representations and indexes over large repositories to support retrieval, reasoning, and automated repair. An internal SWE-bench Pro evaluation showed a 13.5-percentage-point issue-resolution improvement over the evaluated Codex baseline. This is a prototype comparison under a specific setup, not a benchmark-wide claim across versions. Follow-up research focuses on repository-level reasoning and reproducible evaluation.
+
+<h2 id="knowledge-systems">Knowledge graphs and Graph-RAG</h2>
+
+### R4 · Hybrid graph retrieval and knowledge lifecycle
+
+**Focus:** Knowledge graphs · Graph-RAG · Dynamic knowledge · Data quality
+
+**Problem.** Knowledge-based assistants need both effective evidence retrieval and a graph that remains usable as source data changes.
+
+**Contribution.** I developed vector-based entry-point retrieval combined with graph-neighbourhood exploration and relation-based filtering. I also developed automated evaluation of extracted triples, formatting repair, and incremental insertion/deletion so that knowledge can be corrected and updated over time.
+
+**Application context.** Related Graph-RAG and knowledge-graph technologies have been used for question answering in financial services, energy, and digital government. Deployment experience and research prototypes are distinguished from formal publications.
+
+**Related publication.** I collaborated with Prof. Yangqiu Song's team at HKUST on [AutoSchemaKG: Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora](https://aclanthology.org/2026.acl-long.942/) (ACL 2026). This coauthored paper is a separate peer-reviewed output; not every industrial component described here is a contribution of that paper.
+
+<span id="efficient-inference"></span>
+<h2 id="kv-cache-sparsity">Long-context inference and KV-cache sparsity</h2>
+
+### R5 · Sparse attention and UCM integration
 
 **Focus:** Efficient LLM systems · Long context · GQA and MLA · Hardware-aware optimization
 
@@ -33,7 +77,9 @@ The industrial work below was carried out during my current Research Scientist a
 
 These are configuration-specific output-throughput results. They do not imply the same benefit for every model, batch size, hardware configuration, or end-to-end application. Accuracy measurements and theoretical claims require their full evaluation or proof context and are not reduced to an unqualified headline here.
 
-### R2 · Resource-efficient DeepSeek deployment
+<h2 id="quantization-deployment">Model quantization and deployment</h2>
+
+### R6 · Resource-efficient DeepSeek deployment
 
 **Focus:** Model quantization · LLM deployment · Inference systems
 
@@ -45,49 +91,6 @@ These are configuration-specific output-throughput results. They do not imply th
 
 **Related work.** My broader inference research includes speculative decoding and hardware-aware Vision Transformer optimization. The vision solution was commercialized for a hospital medical-image-recognition application.
 
-<h2 id="agentic-retrieval">Agentic retrieval and reasoning</h2>
-
-### R3 · Query decomposition and adaptive retrieval chains
-
-**Focus:** Agentic RAG · Multi-hop question answering · Small-model fine-tuning
-
-**Problem.** Complex questions may require evidence gathered through several dependent retrieval steps; a single retrieval pass can miss the necessary connections.
-
-**Contribution.** I developed a chain-of-retrieval framework that decomposes queries, retrieves evidence, and adapts subsequent subqueries using earlier results. Training combines sampled and verified retrieval trajectories with supervised fine-tuning of a small model. Potential applications include complex question answering and knowledge-intensive assistants.
-
-**Selected evaluation.** Retrieval recall improved over the internally evaluated baseline as follows:
-
-| Dataset | Baseline recall | Method recall | Absolute gain |
-| --- | ---: | ---: | ---: |
-| 2WikiMultiHopQA | 70.5% | 85.4% | 14.9 percentage points |
-| MuSiQue | 35.9% | 64.2% | 28.3 percentage points |
-
-These figures describe retrieval recall, not answer accuracy. The baseline implementation, model versions, and precise recall definition are required for a reproducible comparison; this summary does not claim superiority over every published method.
-
-<h2 id="knowledge-systems">Knowledge construction, retrieval, and maintenance</h2>
-
-### R4 · Hybrid graph retrieval and knowledge lifecycle
-
-**Focus:** Knowledge graphs · Graph-RAG · Dynamic knowledge · Data quality
-
-**Problem.** Knowledge-based assistants need both effective evidence retrieval and a graph that remains usable as source data changes.
-
-**Contribution.** I developed vector-based entry-point retrieval combined with graph-neighbourhood exploration and relation-based filtering. I also developed automated evaluation of extracted triples, formatting repair, and incremental insertion/deletion so that knowledge can be corrected and updated over time.
-
-**Application context.** Related Graph-RAG and knowledge-graph technologies have been used for question answering in financial services, energy, and digital government. Deployment experience and research prototypes are distinguished from formal publications.
-
-**Related publication.** I collaborated with Prof. Yangqiu Song's team at HKUST on [AutoSchemaKG: Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora](https://aclanthology.org/2026.acl-long.942/) (ACL 2026). This coauthored paper is a separate peer-reviewed output; not every industrial component described here is a contribution of that paper.
-
-<h2 id="ongoing-research">Ongoing research</h2>
-
-### R5 · Long-term memory for AI agents
-
-I am developing mechanisms for agents to acquire, organize, retrieve, update, and maintain knowledge over time. A prototype evaluated on LoCoMo showed gains of 29.6 percentage points in Recall@20 and 12.4 percentage points in question-answering accuracy over the evaluated Jiuwen-Memory baseline. These internal prototype results remain separate from published work; model and baseline versions matter when interpreting the comparison. Current research examines memory quality, consistency, privacy, and downstream task performance.
-
-### R6 · Graph-based code intelligence
-
-I am developing graph representations and indexes over large repositories to support retrieval, reasoning, and automated repair. An internal SWE-bench Pro evaluation showed a 13.5-percentage-point issue-resolution improvement over the evaluated Codex baseline. This is a prototype comparison under a specific setup, not a benchmark-wide claim across versions. Follow-up research focuses on repository-level reasoning and reproducible evaluation.
-
 <h2 id="academic-foundations">Academic foundations and student research</h2>
 
 ### R7 · Federated learning, unlearning, and edge intelligence
@@ -98,4 +101,4 @@ See the [full publication records]({{ '/publications/' | relative_url }}) for au
 
 ### Possible student projects
 
-Document-grounded question answering, memory-augmented assistants, efficient model deployment, graph-based code retrieval, and federated learning/unlearning can be scoped as undergraduate prototypes or postgraduate investigations. Evaluation quality, reproducibility, and responsible use of data are central to these directions.
+Document-grounded question answering, memory-augmented assistants, graph-based code retrieval, knowledge-graph maintenance, efficient model deployment, and federated learning/unlearning can be scoped as undergraduate prototypes or postgraduate investigations. Evaluation quality, reproducibility, and responsible use of data are central to these directions.

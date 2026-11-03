@@ -3,21 +3,23 @@
 ## 三层结构
 
 1. **主页** _pages/about.md：身份、研究主线、少量新闻和导航。
-2. **通用学术 CV** _includes/cv-content.md：学历、职位、三项代表性华为贡献、完整论文、教学、指导和服务，供 /cv/ 和 /cv/print/ 共用。
+2. **通用学术 CV** _includes/cv-content.md：学历、职位、四项代表性华为贡献、完整论文、教学、指导和服务，供 /cv/ 和 /cv/print/ 共用。
 3. **研究资料库** _pages/research.md，网址 /research/：R1-R7 的问题、贡献、状态、评测范围和方向标签。详细资料长期维护在此，申请时按需选择。
 
 通用 CV 不再重复放完整成果报告。Full_CV.docx 和下载 PDF 保留原文件名以兼容入口，其内容是通用学术 CV，不是资料库全文。
+
+主页、Research 与通用 CV 按参与度和当前研究重点统一排序：agent 检索与记忆（含 code agent）→ 知识图谱与 Graph-RAG → UCM/KV 稀疏 → 量化与部署。Research 中 R1 为检索链、R2 为长期记忆、R3 为代码智能、R4 为知识图谱、R5 为 KV 稀疏/UCM、R6 为量化与部署、R7 为早期联邦/边缘智能。项目成熟度在条目内标明；prototype 不再单列到页面末尾。原有 agentic-retrieval、knowledge-systems、efficient-inference、ongoing-research 与 academic-foundations 锚点继续兼容。
 
 ## 按岗位取材
 
 | 岗位重点 | 优先素材 | 取舍建议 |
 | --- | --- | --- |
-| 泛 AI / 教学与科研并重的 AP | R7、R3、R4，加教学指导 | 华为经历保留 2-3 项代表贡献，论文与教学为主体 |
-| LLM / AI Systems | R1、R2 | 保留模型、硬件、基线；区分 prefill、output 与端到端指标 |
-| Agent / RAG / NLP | R3、R4、R5 | 强调检索、记忆和知识更新；prototype 与论文分开 |
-| 软件工程 / Coding Agent | R6、R4 | 强调 repository-level reasoning，保留基线限定 |
-| 可信 / 分布式 AI | R7、R1、R5 | 串联 privacy、unlearning、资源约束和可靠性 |
-| 多模态与应用研究 | R2 的视觉应用、R4 | 写真实交集，不扩展成没有证据的专业方向 |
+| 泛 AI / 教学与科研并重的 AP | R7、R1、R4，加教学指导 | 华为经历保留 2-3 项代表贡献，论文与教学为主体 |
+| LLM / AI Systems | R5、R6 | 保留模型、硬件、基线；区分 prefill、output 与端到端指标 |
+| Agent / RAG / NLP | R1、R2、R4 | 强调检索、记忆和知识更新；prototype 与论文分开 |
+| 软件工程 / Coding Agent | R3、R4 | 强调 repository-level reasoning，保留基线限定 |
+| 可信 / 分布式 AI | R7、R5、R2 | 串联 privacy、unlearning、资源约束和可靠性 |
+| 多模态与应用研究 | R6 的视觉应用、R4 | 写真实交集，不扩展成没有证据的专业方向 |
 
 先读 JD，选 2-3 个匹配项目，再调整排序和一两条有上下文的指标。岗位版本另存申请目录，通用导出脚本不会覆盖 SFU 版本。
 

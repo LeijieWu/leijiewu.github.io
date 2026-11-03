@@ -128,7 +128,7 @@ def export():
             text = node.get_text(' ', strip=True)
             if node.name == 'h1': current = text
             para = doc.add_paragraph(text, 'Heading 1' if node.name=='h1' else 'Heading 2')
-            if text in ('Publications', 'Teaching Experience'):
+            if text == 'Teaching Experience':
                 para.paragraph_format.page_break_before = True
             return
         if node.name in ('ul','ol'):
@@ -164,7 +164,10 @@ def export():
     doc.save(OUTPUT)
     reopened=Document(OUTPUT)
     text=' '.join(p.text for p in reopened.paragraphs)
-    assert 'Efficient AI systems' in text and 'Research Agenda' in text
+    assert 'Research Agenda' in text
+    contribution_labels = ['Agentic retrieval and memory:', 'Knowledge graphs and Graph-RAG:', 'KV-cache sparsity and UCM:', 'Model quantization and deployment:']
+    contribution_positions = [text.index(label) for label in contribution_labels]
+    assert contribution_positions == sorted(contribution_positions)
     assert 'Present' in text
     assert 'Research Supervision and Mentoring' in text
     assert '{%' not in text and '{{' not in text
